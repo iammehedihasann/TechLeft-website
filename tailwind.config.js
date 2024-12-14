@@ -3,8 +3,8 @@ module.exports = {
   content: [
     './nav-bar/**/*.html',
     './work-process/**/*.html',
-    './banner/**/*.html',
     './blogs/**/*.html',
+    './servicess/**/*.html',
     './index.html',
   ],
   theme: {
