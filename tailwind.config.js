@@ -5,6 +5,7 @@ module.exports = {
     './work-process/**/*.html',
     './blogs/**/*.html',
     './servicess/**/*.html',
+    './footer/**/*.html',
     './index.html',
   ],
   theme: {
